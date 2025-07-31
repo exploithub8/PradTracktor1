@@ -12,14 +12,14 @@ ZIP File Cracking:
 ### 1. Clone the Repository
 
 ```bash
-https://github.com/exploithub8/Prad-Tracktor.git
-cd Prad-Tracktor
+https://github.com/exploithub8/Prad-Tracktor1.git
+cd Prad-Tracktor1
 ```
 
 ### 2. Run the Tool
 
 ```bash
-python "Prad-Tracktor.py"
+python "Prad-Tracktor1.py"
 ```
 
 
